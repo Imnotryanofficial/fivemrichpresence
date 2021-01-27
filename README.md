@@ -10,7 +10,7 @@ Fivem Rich Presence (FX or ESX Server)
 * Put in resources directory
 * Add this in your server.cfg :
 
-```Start fivemrichpresence```
+```start fivemrichpresence```
 
 
 # Extra
