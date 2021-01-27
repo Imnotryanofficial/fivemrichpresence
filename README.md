@@ -9,6 +9,7 @@ Fivem Rich Presence (FX or ESX Server)
 * Set BOT ID in discord.lua SetDiscordAppId()
 * Put in resources directory
 * Add this in your server.cfg :
+
 ```Start fivemrichpresence```
 
 
