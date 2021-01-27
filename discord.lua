@@ -11,11 +11,11 @@ Citizen.CreateThread(function()
 		SetRichPresence(name ..  " | " .. #GetActivePlayers() .. "/32 | ID: " .. id)
      
 
-      SetDiscordRichPresenceAsset("blank") -- nombre logo grande
-      SetDiscordRichPresenceAssetText(name) -- Nombre en el logo grande
+      SetDiscordRichPresenceAsset("blank") -- big logo name
+      SetDiscordRichPresenceAssetText(name)
 
-      SetDiscordRichPresenceAssetSmall("blank") -- nombre logo pequeño
-      SetDiscordRichPresenceAssetSmallText("ID: ".. id) -- logo pequeño
+      SetDiscordRichPresenceAssetSmall("blank") -- small logo name
+      SetDiscordRichPresenceAssetSmallText("ID: ".. id)
 
   end
 end)
